@@ -7,7 +7,7 @@ namespace BurgerApi.Controllers;
 public class BurgerController : ControllerBase
 {
 
-    [HttpGet]
+    [HttpGet(Name = "GetBurger")]
 
     public List<BurgerModel> getBurger(string burgerType ="Plain")
     {
