@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ha5HoEOkzOom+u8n3NPk66xjyJynCawoc3GXH/c4yDAwEtWjxxpxIAomsaA5vhbwye1oeUAU7cGPs3KNQL99lw==",
+  "dgSpecHash": "0egHSNKBf/wA+JEVb8PFc7yrwEB8i9r3a//otwsBZPHYtlr08HpT1hsZtcS+KumkWCOlvyEfLZQQNj9rcfOe1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\PROG7311\\BurgerApi\\BurgerApi.csproj",
+  "projectFilePath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\src\\BurgerApi\\BurgerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\PROG7311\\BurgerApi\\BurgerApi.csproj",
+      "projectUniqueName": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\src\\BurgerApi\\BurgerApi.csproj",
       "projectName": "BurgerApi",
-      "projectPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\PROG7311\\BurgerApi\\BurgerApi.csproj",
+      "projectPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\src\\BurgerApi\\BurgerApi.csproj",
       "packagesPath": "C:\\Users\\ctill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\PROG7311\\BurgerApi\\obj\\",
+      "outputPath": "C:\\Users\\ctill\\OneDrive - ADvTECH Ltd\\2023\\src\\BurgerApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ctill\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,7 +7,7 @@ namespace BurgerApi.Controllers;
 public class CustomBurgerController : ControllerBase
 {
 
-    [HttpGet]
+    [HttpGet(Name = "GetCustomBurger")]
 
    public string getCustomBurger(bool cheese, bool bun, bool patty, bool veggiePatty)
    {
